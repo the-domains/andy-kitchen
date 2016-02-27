@@ -2,42 +2,42 @@
     <channel>
         <title><![CDATA[Andy Kitchen]]></title>
         <description><![CDATA[Andy Kitchen]]></description>
-        <link>https://thegrid.ai/andy-kitchen/</link>
+        <link>http://about.andy.kitchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 10:37:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/andy-kitchen/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 10:46:36 GMT</lastBuildDate>
+        <atom:link href="http://about.andy.kitchen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>Andy Kitchen is a crazy programmer with a big heart. When he was a kid, the first program he ever wrote was an “AI”. He though this was the coolest thing ever. Later, he realised it was a chat-bot. He is now a researcher and consultant in machine learning, specialising in neural networks. He is currently puzzling over how to teach computers to think about thinking and other meta-physical machinations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08e4888ab5d68edd1c1146f290fd1cc9ce284b8c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andy-kitchen/about-andy/index.html</link>
+            <link>http://about.andy.kitchen/about-andy/index.html</link>
             <guid isPermaLink="false">8ad2bb7a-a139-43ea-bbdf-c5a2235c9b5d</guid>
             <pubDate>Sat, 27 Feb 2016 10:36:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OSCON]]></title>
-            <description><![CDATA[<article><h1>OSCON</h1><h2>Abracada-BRAIN!</h2><p>I'm speaking at OSCON 2016 in Austin, TX on 2016-05-18</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b19085e6888ef399f8257054ed89b396d03207.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andy-kitchen/oscon/index.html</link>
+            <title><![CDATA[Abracada-BRAIN!]]></title>
+            <description><![CDATA[<article><h1>Abracada-BRAIN!</h1><p>I'm speaking at OSCON 2016 in Austin, TX on 2016-05-18</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b19085e6888ef399f8257054ed89b396d03207.jpg"></article>]]></description>
+            <link>http://about.andy.kitchen/oscon/index.html</link>
             <guid isPermaLink="false">3e6c48c0-20c6-43a1-bb6f-680f511e0683</guid>
-            <pubDate>Sat, 27 Feb 2016 10:27:41 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 10:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine Learning & AI Meetup]]></title>
             <description><![CDATA[<article><h1>Machine Learning & AI Meetup</h1><p>I help organize the Melbourne Machine Learning & Artificial Intelligence Meetup</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/853e6aa557cc103b09fdf884f78c965c723671f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andy-kitchen/machine-learning-and-ai-meetup/index.html</link>
+            <link>http://about.andy.kitchen/machine-learning-and-ai-meetup/index.html</link>
             <guid isPermaLink="false">2bd85b7a-ad10-4868-9879-79aad6b5e577</guid>
             <pubDate>Sat, 27 Feb 2016 10:27:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[X-Rays into Neural Networks]]></title>
             <description><![CDATA[<article><h1>X-Rays into Neural Networks</h1><p>I've been working on putting X-Ray images into neural networks with the innovative and awesomely multi-talented doctor Jarrel Seah. We're working together to detect bowel obstruction. He's put together a conference poster with more details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f967eedb566d8b47d7e1e769670f69ff803371c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andy-kitchen/x-rays-into-neural-networks/index.html</link>
+            <link>http://about.andy.kitchen/x-rays-into-neural-networks/index.html</link>
             <guid isPermaLink="false">8394bdaa-8c87-4af7-a964-eb9e9a7b90e5</guid>
             <pubDate>Sat, 27 Feb 2016 10:23:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Negentropy]]></title>
             <description><![CDATA[<article><h1>Negentropy</h1><p>Negentropy is the spontaneous creation of order. It is at odds with the core dogma of thermodynamics – that entropy is always increasing. This is only true in the bulk: when averaged across the stars. Life is so perfectly unlike ice melting in the hot sun, living things somehow manage to localize order and structure – in tissues of the body; in the cipher of DNA; embodied in the cycle of growing, learning and reproducing. There is a crystalline eternalism to life extending through space-time, a fractal tensegrity structure – robust and rigid, yet supple.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34ac724fd5a7a173bbaf978cd7f745e8be299c1e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andy-kitchen/negentropy/index.html</link>
+            <link>http://about.andy.kitchen/negentropy/index.html</link>
             <guid isPermaLink="false">f55c1991-0030-469a-80f7-f07b496528f4</guid>
             <pubDate>Sat, 27 Feb 2016 10:23:29 GMT</pubDate>
         </item>
