@@ -4,8 +4,15 @@
         <description><![CDATA[Andy Kitchen]]></description>
         <link>https://thegrid.ai/andy-kitchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 10:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 10:28:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-kitchen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OSCON]]></title>
+            <description><![CDATA[<article><h1>OSCON</h1><h2>Abracada-BRAIN!</h2><p>I'm speaking at OSCON 2016 in Austin, TX on 2016-05-18</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b19085e6888ef399f8257054ed89b396d03207.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andy-kitchen/oscon/index.html</link>
+            <guid isPermaLink="false">3e6c48c0-20c6-43a1-bb6f-680f511e0683</guid>
+            <pubDate>Sat, 27 Feb 2016 10:27:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Machine Learning & AI Meetup]]></title>
             <description><![CDATA[<article><h1>Machine Learning & AI Meetup</h1><p>I help organize the Melbourne Machine Learning & Artificial Intelligence Meetup</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/853e6aa557cc103b09fdf884f78c965c723671f7.jpg"></article>]]></description>
