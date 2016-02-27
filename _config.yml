@@ -1,6 +1,6 @@
 name: Andy Kitchen
 favicon: null
-layout_spectrum: 0.15188491181470454
+layout_spectrum: 0.50319
 typography_spectrum: 0.56617
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9670180447865278
-  lightness: 0.2907460820861161
-  saturation: 0.9793182942084968
+    - '#000000'
+    - '#ffffff'
+    - '#aba8ef'
+    - '#1a4de7'
+    - '#d04643'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.75
   rhythmicContrast: 0.9959175975527614
 purpose: []
