@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andy Kitchen]]></title>
         <description><![CDATA[Andy Kitchen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andy-kitchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 10:23:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 10:24:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andy-kitchen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[X-Rays into Neural Networks]]></title>
+            <description><![CDATA[<article><h1>X-Rays into Neural Networks</h1><p>I've been working on putting X-Ray images into neural networks with the innovative and awesomely multi-talented doctor Jarrel Seah. We're working together to detect bowel obstruction. He's put together a conference poster with more details.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f967eedb566d8b47d7e1e769670f69ff803371c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andy-kitchen/x-rays-into-neural-networks/index.html</link>
+            <guid isPermaLink="false">8394bdaa-8c87-4af7-a964-eb9e9a7b90e5</guid>
+            <pubDate>Sat, 27 Feb 2016 10:23:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Negentropy]]></title>
             <description><![CDATA[<article><h1>Negentropy</h1><p>Negentropy is the spontaneous creation of order. It is at odds with the core dogma of thermodynamics – that entropy is always increasing. This is only true in the bulk: when averaged across the stars. Life is so perfectly unlike ice melting in the hot sun, living things somehow manage to localize order and structure – in tissues of the body; in the cipher of DNA; embodied in the cycle of growing, learning and reproducing. There is a crystalline eternalism to life extending through space-time, a fractal tensegrity structure – robust and rigid, yet supple.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34ac724fd5a7a173bbaf978cd7f745e8be299c1e.jpg"></article>]]></description>
-            <link>undefinednegentropy/index.html</link>
+            <link>https://thegrid.ai/andy-kitchen/negentropy/index.html</link>
             <guid isPermaLink="false">f55c1991-0030-469a-80f7-f07b496528f4</guid>
             <pubDate>Sat, 27 Feb 2016 10:23:29 GMT</pubDate>
         </item>
