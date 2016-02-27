@@ -4,8 +4,15 @@
         <description><![CDATA[Andy Kitchen]]></description>
         <link>https://thegrid.ai/andy-kitchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 10:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 10:28:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-kitchen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Andy]]></title>
+            <description><![CDATA[<article><h1>About Andy</h1><p>Reach out and contact me! I'm @auastro on Twitter or 'andykitchen' on github.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08e4888ab5d68edd1c1146f290fd1cc9ce284b8c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andy-kitchen/about-andy/index.html</link>
+            <guid isPermaLink="false">8ad2bb7a-a139-43ea-bbdf-c5a2235c9b5d</guid>
+            <pubDate>Sat, 27 Feb 2016 10:27:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OSCON]]></title>
             <description><![CDATA[<article><h1>OSCON</h1><h2>Abracada-BRAIN!</h2><p>I'm speaking at OSCON 2016 in Austin, TX on 2016-05-18</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b19085e6888ef399f8257054ed89b396d03207.jpg"></article>]]></description>
